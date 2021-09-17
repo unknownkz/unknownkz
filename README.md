@@ -36,3 +36,23 @@ class About extends Me
     }
 }
 ```
+
+<h2><i>Follow me:</i></h2>
+<div  align="center">
+
+  <a href="https://www.instagram.com/si_axeell/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white&color=071A2C" alt="Instagram">
+  </a>
+  <a href="https://www.facebook.com/axel.alexius.latukolan" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white&color=071A2C" alt="Facebook">
+  </a>
+   <a href="mailto:iamkenzo404@gmail.com" mailto="iamkenzo404@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-%231877F2.svg?&style=flat-square&logo=gmail&logoColor=white&color=071A2C" alt="Gmail">
+  </a>
+  <a href="https://t.me/TeamSecret_Kz" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-%23E4405F.svg?&style=flat-square&logo=telegram&logoColor=white&color=071A2C" alt="Telegram">
+  </a>
+<a href="https://wa.me/6285717663312" target="_blank">
+    <img src="https://img.shields.io/badge/Whatsapp-%23E4405F.svg?&style=flat-square&logo=whatsapp&logoColor=white&color=071A2C" alt="Whatsapp">
+  </a>
+</div>
