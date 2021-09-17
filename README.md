@@ -1,5 +1,5 @@
 <div align="center">
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞... <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/unknownkz/unknownkz/blob/main/gifs/Hi.gif" width="30px"></h2>
+<h2> ʜᴇʟʟᴏ ᴛʜᴇʀᴇ ꜰᴇʟʟᴏᴡ <img src="https://github.com/unknownkz/unknownkz/blob/main/gifs/Hi.gif" width="30px"></h2>
 </div>
 
 
@@ -37,7 +37,7 @@ class About extends Me
 }
 ```
 
-<h2><i>Follow me:</i></h2>
+<h2><i>📫 Follow me:</i></h2>
 <div  align="center">
 
   <a href="https://www.instagram.com/si_axeell/" target="_blank">
