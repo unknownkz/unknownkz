@@ -37,7 +37,7 @@ class About extends Me
 }
 ```
 
-<h2><i>📫 Follow me:</i></h2>
+<h2><i>📫 Contacts:</i></h2>
 <div  align="center">
 
   <a href="https://www.instagram.com/Unknown/" target="_blank">
