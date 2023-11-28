@@ -53,7 +53,7 @@ class About extends Me
    <a href="mailto:unknownkz@outlook.co.id" mailto="unknownkz@outlook.co.id" target="_blank">
     <img src="https://img.shields.io/badge/Outlook-%231877F2.svg?&style=flat-square&logo=windows&logoColor=white&color=071A2C" alt="Outlook">
   </a>
-  <a href="https://t.me/TeamSecret_Kz" target="_blank">
+  <a href="https://t.me/userindo" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-%23E4405F.svg?&style=flat-square&logo=telegram&logoColor=white&color=071A2C" alt="Telegram">
   </a>
 <a href="https://wa.me/6285717663312" target="_blank">
