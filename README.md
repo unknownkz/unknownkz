@@ -37,29 +37,31 @@ class About extends Me
 }
 ```
 
-<h2><i>📫 Contacts:</i></h2>
-<div  align="center">
-
-  <a href="https://www.instagram.com/Unknown/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white&color=071A2C" alt="Instagram">
-  </a>
-  <a href="https://www.facebook.com/Unknown" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white&color=071A2C" alt="Facebook">
-  </a>
-   <a href="mailto:iamkenzo404@gmail.com" mailto="iamkenzo404@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-%231877F2.svg?&style=flat-square&logo=gmail&logoColor=white&color=071A2C" alt="Gmail">
-  </a>
-  </a>
-   <a href="mailto:unknownkz@outlook.co.id" mailto="unknownkz@outlook.co.id" target="_blank">
-    <img src="https://img.shields.io/badge/Outlook-%231877F2.svg?&style=flat-square&logo=windows&logoColor=white&color=071A2C" alt="Outlook">
-  </a>
-  <a href="https://t.me/userindo" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-%23E4405F.svg?&style=flat-square&logo=telegram&logoColor=white&color=071A2C" alt="Telegram">
-  </a>
-<a href="https://wa.me/6285717663312" target="_blank">
-    <img src="https://img.shields.io/badge/Whatsapp-%23E4405F.svg?&style=flat-square&logo=whatsapp&logoColor=white&color=071A2C" alt="Whatsapp">
-  </a>
-</div>
+<body>
+    <details>
+        <summary><i><h2></h2>📫 Contacts:</i></h2></summary>
+            <div  align="center">
+                <a href="https://www.instagram.com/Unknown/" target="_blank">
+                    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white&color=071A2C" alt="Instagram">
+                </a>
+                <a href="https://www.facebook.com/Unknown" target="_blank">
+                    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white&color=071A2C" alt="Facebook">
+                </a>
+                <a href="mailto:iamkenzo404@gmail.com" mailto="iamkenzo404@gmail.com" target="_blank">
+                    <img src="https://img.shields.io/badge/Gmail-%231877F2.svg?&style=flat-square&logo=gmail&logoColor=white&color=071A2C" alt="Gmail">
+                </a>
+                <a href="mailto:unknownkz@outlook.co.id" mailto="unknownkz@outlook.co.id" target="_blank">
+                    <img src="https://img.shields.io/badge/Outlook-%231877F2.svg?&style=flat-square&logo=windows&logoColor=white&color=071A2C" alt="Outlook">
+                </a>
+                <a href="https://t.me/userindo" target="_blank">
+                    <img src="https://img.shields.io/badge/Telegram-%23E4405F.svg?&style=flat-square&logo=telegram&logoColor=white&color=071A2C" alt="Telegram">
+                </a>
+                <a href="https://wa.me/6285717663312" target="_blank">
+                    <img src="https://img.shields.io/badge/Whatsapp-%23E4405F.svg?&style=flat-square&logo=whatsapp&logoColor=white&color=071A2C" alt="Whatsapp">
+                </a>
+            </div>
+    </details>
+</body>
 </br>
 <body>
     <img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
