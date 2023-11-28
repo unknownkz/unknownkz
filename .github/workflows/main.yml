@@ -24,30 +24,23 @@ jobs:
           #  - repo          (optional, if you want to include private repositories)
           token: ${{ secrets.METRICS_TOKEN }}
 
+          # Options
+          user: Unknownkz
+          template: classic
+          base: header, activity, community, repositories, metadata
+          base_indepth: yes
+          config_timezone: Asia/Jakarta
+          plugin_habits: yes
+          plugin_habits_charts_type: classic
+          plugin_habits_days: 20
+          plugin_habits_facts: yes
+          plugin_habits_from: 200
+          plugin_habits_languages_limit: 8
+          plugin_habits_languages_threshold: 100%
+          plugin_habits_trim: yes
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
           # Step Commit
           output_action: commit
           committer_branch: metrics-renders
           committer_message: "Unknownkz: update metrics"
-
-          # Options
-          template: classic
-          base: header, activity, community, repositories, metadata
-          config_timezone: Asia/Jakarta
-          plugin_habits: yes
-          plugin_habits_charts_type: classic
-          plugin_habits_days: 1
-          plugin_habits_facts: yes
-          plugin_habits_from: 350
-          plugin_habits_languages_limit: 8
-          plugin_habits_languages_threshold: 0%
-          plugin_languages: yes
-          plugin_languages_analysis_timeout: 15
-          plugin_languages_analysis_timeout_repositories: 7.5
-          plugin_languages_categories: markup, programming
-          plugin_languages_colors: github
-          plugin_languages_limit: 10
-          plugin_languages_recent_categories: markup, programming
-          plugin_languages_recent_days: 1
-          plugin_languages_recent_load: 300
-          plugin_languages_sections: most-used
-          plugin_languages_threshold: 0%
