@@ -24,6 +24,11 @@ jobs:
           #  - repo          (optional, if you want to include private repositories)
           token: ${{ secrets.METRICS_TOKEN }}
 
+          # Step Commit
+          output_action: commit
+          committer_branch: metrics-renders
+          committer_message: "Unknownkz: update metrics"
+
           # Options
           template: classic
           base: header, activity, community, repositories, metadata
