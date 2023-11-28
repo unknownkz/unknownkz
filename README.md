@@ -60,3 +60,7 @@ class About extends Me
     <img src="https://img.shields.io/badge/Whatsapp-%23E4405F.svg?&style=flat-square&logo=whatsapp&logoColor=white&color=071A2C" alt="Whatsapp">
   </a>
 </div>
+</br>
+<body>
+    <img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
+</body>
