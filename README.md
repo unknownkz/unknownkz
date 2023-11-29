@@ -41,7 +41,7 @@ class About extends Me
     <details>
         <summary><i><h2></h2>📫 Contacts:</i></h2></summary>
             <div  align="center">
-                <a href="https://www.instagram.com/Unknown/" target="_blank">
+                <a href="https://www.instagram.com/si_axeell/" target="_blank">
                     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white&color=071A2C" alt="Instagram">
                 </a>
                 <a href="https://www.facebook.com/Unknown" target="_blank">
