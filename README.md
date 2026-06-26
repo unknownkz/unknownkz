@@ -15,7 +15,7 @@ type Developer struct {
 
 func main() {
     me := Developer{
-        Name: "UNKNOWNKZ",
+        Name: "unknownkz",
         Role: "Full-Stack Developer",
         Language: []string{
             "Go",
